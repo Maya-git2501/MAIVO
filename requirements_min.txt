@@ -1,0 +1,6 @@
+
+# requirements_min.txt
+sounddevice
+numpy
+vosk
+keyboard
